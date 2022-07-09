@@ -24,6 +24,11 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
+-- Criar base de dados
+--
+CREATE DATABASE `bd_jogoGalo`;
+
+--
 -- Estrutura da tabela `jogador`
 --
 
